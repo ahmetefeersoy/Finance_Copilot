@@ -18,7 +18,7 @@ const swaggerOptions = {
       description: "API documentation for financeCopilot",
       contact: {
         name: "fempsoft",
-        url: "https://fempsoft.com",
+        url: "https://github.com/ahmetefeersoy/Finance_Copilot/tree/main",
         email: "fempsoft@gmail.com",
       },
     },
